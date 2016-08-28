@@ -25,3 +25,5 @@ anything
 line 16
 line 17
 >>>>>>> iss11
+
+line 18

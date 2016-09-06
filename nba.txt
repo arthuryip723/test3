@@ -2,8 +2,5 @@ hello
 Sat Aug 27 21:50:51 EDT 2016
 new line
 
-<<<<<<< HEAD
 hello world!
-=======
 my new line
->>>>>>> master
